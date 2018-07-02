@@ -1,6 +1,6 @@
 # TXTY
 
-TXTY is a command line based text editor written in C.
+TXTY is a terminal based text editor written in C.
 
 I started writing it when I started following [Snaptoken's tutorial on Antirez's Kilo](https://viewsourcecode.org/snaptoken/kilo/)
 
